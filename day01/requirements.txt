@@ -1,0 +1,5 @@
+murf
+flask
+pyaudio
+requests
+python-dotenv
